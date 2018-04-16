@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  gitTest
-//
-//  Created by Bihan Mahadewa on 4/16/18.
-//  Copyright © 2018 Bihan Mahadewa. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
